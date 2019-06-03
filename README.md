@@ -1,0 +1,2 @@
+# qrcode.io
+qrCode
